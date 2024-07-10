@@ -1,0 +1,66 @@
+,all_awardings,approved_at_utc,approved_by,archived,associated_award,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_template_id,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_is_blocked,author_patreon_flair,author_premium,awarders,banned_at_utc,banned_by,body,body_html,can_gild,can_mod_post,collapsed,collapsed_because_crowd_control,collapsed_reason,collapsed_reason_code,comment_type,controversiality,created,created_utc,depth,distinguished,downs,edited,gilded,gildings,id,is_submitter,likes,link_id,locked,mod_note,mod_reason_by,mod_reason_title,mod_reports,name,no_follow,num_reports,parent_id,permalink,removal_reason,replies,report_reasons,saved,score,score_hidden,send_replies,stickied,subreddit,subreddit_id,subreddit_name_prefixed,subreddit_type,top_awarded_type,total_awards_received,treatment_tags,unrepliable_reason,ups,user_reports,kind
+data,[],,,False,,VintageGriffin,,,[],,,,text,t2_139x5l,False,False,False,[],,,Perhaps they just weren't making a good electrical contact. The button tops on these batteries vary in height between manufacturers.,"&lt;div class=""md""&gt;&lt;p&gt;Perhaps they just weren&amp;#39;t making a good electrical contact. The button tops on these batteries vary in height between manufacturers.&lt;/p&gt;
+&lt;/div&gt;",False,False,False,,,,,0,1714154929.0,1714154929.0,0,,0,False,0,{},l1dxgf6,False,,t3_1cdrrks,False,,,,[],t1_l1dxgf6,False,,t3_1cdrrks,/r/explainlikeimfive/comments/1cdrrks/eli5_why_do_some_devices_reject_different_types/l1dxgf6/,,,,False,3,False,True,False,explainlikeimfive,t5_2sokd,r/explainlikeimfive,public,,0,[],,3,[],t1
+data_1,[],,,False,,Target880,,,[],,,,text,t2_aopez,False,False,False,[],,,"AA is a form factor, that mean it define the physical size.    The exact voltage depend on the chemistry of the cell.   The common voltage is 1.2 - 1.5 volt.
+
+Non rechargeable are typically alkaline battery vith a nominal voltage of 1.5 volt   and the rechargeable are typically Nickel–metal hydride battery with a nominal voltage of 1.2 volt.
+
+ Energizer lithium have a even higher nominal voltage of around 1.7V but when loaded they are typically just above 1.5 volt.  The chemistry are more exactly litium-iron-sulfate
+
+There are alos Litium-ion batteries with a nominal voltage of 3.7 volt. Litium-ion are not the same as litium-iron-sulfate batteries.   They are sometimes called 14500 because of the diameter of 14 mm and length of 50mm.  The namein scheme are more common in the larger 18650 batteries that are 18mm in diameter and 65mm long
+
+There are AAA batteries of the same types, they are physically smaller but have the same voltage.  With a adapter you can use them instead of AA batteries, if the current draw i not to high. The adapter can just be a plastic part of the size and a wire so have the connections the right distance apart.
+
+  You can put wires on the end of the battery and connect them to the terminal in the device and that way a large C or D battery can power a device that usually a smaller form factor. That is if the chemistry is correct
+
+
+
+So it is the chemsity and its voltage  that determine if it works on not.  The physical size importance is primary on of if the battery physically fits.
+
+The flash light might have had a control circuit that considered the 1.7V open circuit voltage as to high and stopped you from turning on the flashlight.","&lt;div class=""md""&gt;&lt;p&gt;AA is a form factor, that mean it define the physical size.    The exact voltage depend on the chemistry of the cell.   The common voltage is 1.2 - 1.5 volt.&lt;/p&gt;
+
+&lt;p&gt;Non rechargeable are typically alkaline battery vith a nominal voltage of 1.5 volt   and the rechargeable are typically Nickel–metal hydride battery with a nominal voltage of 1.2 volt.&lt;/p&gt;
+
+&lt;p&gt;Energizer lithium have a even higher nominal voltage of around 1.7V but when loaded they are typically just above 1.5 volt.  The chemistry are more exactly litium-iron-sulfate&lt;/p&gt;
+
+&lt;p&gt;There are alos Litium-ion batteries with a nominal voltage of 3.7 volt. Litium-ion are not the same as litium-iron-sulfate batteries.   They are sometimes called 14500 because of the diameter of 14 mm and length of 50mm.  The namein scheme are more common in the larger 18650 batteries that are 18mm in diameter and 65mm long&lt;/p&gt;
+
+&lt;p&gt;There are AAA batteries of the same types, they are physically smaller but have the same voltage.  With a adapter you can use them instead of AA batteries, if the current draw i not to high. The adapter can just be a plastic part of the size and a wire so have the connections the right distance apart.&lt;/p&gt;
+
+&lt;p&gt;You can put wires on the end of the battery and connect them to the terminal in the device and that way a large C or D battery can power a device that usually a smaller form factor. That is if the chemistry is correct&lt;/p&gt;
+
+&lt;p&gt;So it is the chemsity and its voltage  that determine if it works on not.  The physical size importance is primary on of if the battery physically fits.&lt;/p&gt;
+
+&lt;p&gt;The flash light might have had a control circuit that considered the 1.7V open circuit voltage as to high and stopped you from turning on the flashlight.&lt;/p&gt;
+&lt;/div&gt;",False,False,False,,,,,0,1714156459.0,1714156459.0,0,,0,False,0,{},l1e1vg9,False,,t3_1cdrrks,False,,,,[],t1_l1e1vg9,True,,t3_1cdrrks,/r/explainlikeimfive/comments/1cdrrks/eli5_why_do_some_devices_reject_different_types/l1e1vg9/,,,,False,2,False,True,False,explainlikeimfive,t5_2sokd,r/explainlikeimfive,public,,0,[],,2,[],t1
+data_2,[],,,False,,NuclearSky,,,[],,,,text,t2_jcagl,False,False,False,[],,,"AA is a size - it tells you this object will fit in this slot. What matters more in a circuit is what the input voltage is. If the circuit needs 3 volts, and your AA battery has significantly less (or more), it may cause problems in that circuit - it's either not enough to turn things on, or too much and it can damage components (some circuits have a safety measure to stop this from happening). 
+
+It's also important to know that as batteries exist over time, they *very* slowly lose voltage. When they're used, they lose voltage even faster - in fact, the longer you use them, the faster it happens.","&lt;div class=""md""&gt;&lt;p&gt;AA is a size - it tells you this object will fit in this slot. What matters more in a circuit is what the input voltage is. If the circuit needs 3 volts, and your AA battery has significantly less (or more), it may cause problems in that circuit - it&amp;#39;s either not enough to turn things on, or too much and it can damage components (some circuits have a safety measure to stop this from happening). &lt;/p&gt;
+
+&lt;p&gt;It&amp;#39;s also important to know that as batteries exist over time, they &lt;em&gt;very&lt;/em&gt; slowly lose voltage. When they&amp;#39;re used, they lose voltage even faster - in fact, the longer you use them, the faster it happens.&lt;/p&gt;
+&lt;/div&gt;",False,False,False,,,,,0,1714166010.0,1714166010.0,0,,0,False,0,{},l1et3h1,False,,t3_1cdrrks,False,,,,[],t1_l1et3h1,True,,t3_1cdrrks,/r/explainlikeimfive/comments/1cdrrks/eli5_why_do_some_devices_reject_different_types/l1et3h1/,,,,False,1,False,True,False,explainlikeimfive,t5_2sokd,r/explainlikeimfive,public,,0,[],,1,[],t1
+data_3,[],,,False,,kanakamaoli,,,[],,,,text,t2_egn6g,False,False,False,[],,,"It could be tolerances or physical contact issues.  I've had devices where alkaline batteries fit fine, but eneloop rechargables are slightly thicker so they fitt not fit in the hole.
+
+I have also seen an issue where the button on different alkaline batteries is too short, so it doesn't make contact.  Fortunately, the spring was able to be pulled out to make better contact and the problem was solved.","&lt;div class=""md""&gt;&lt;p&gt;It could be tolerances or physical contact issues.  I&amp;#39;ve had devices where alkaline batteries fit fine, but eneloop rechargables are slightly thicker so they fitt not fit in the hole.&lt;/p&gt;
+
+&lt;p&gt;I have also seen an issue where the button on different alkaline batteries is too short, so it doesn&amp;#39;t make contact.  Fortunately, the spring was able to be pulled out to make better contact and the problem was solved.&lt;/p&gt;
+&lt;/div&gt;",False,False,False,,,,,0,1714180557.0,1714180557.0,0,,0,False,0,{},l1fty1v,False,,t3_1cdrrks,False,,,,[],t1_l1fty1v,True,,t3_1cdrrks,/r/explainlikeimfive/comments/1cdrrks/eli5_why_do_some_devices_reject_different_types/l1fty1v/,,,,False,1,False,True,False,explainlikeimfive,t5_2sokd,r/explainlikeimfive,public,,0,[],,1,[],t1
+data_4,[],,,False,,Saporificpug,,,[],,,,text,t2_hmuqymq,False,False,False,[],,,"It really depends on the battery in question and the device it goes into.
+
+One answer is possibly the freshness of the battery or defect in the battery. Over time every battery loses capacity, alkaline and lithium are both known to hold their capacity for a long time. Some stores or warehouses, especially if you buy the batteries at a store like Walmart for example don't pull old stock and bring it to the front. While it's unlikely you bought a super old pack, if it's sat a few years it's not as good as the pack would have been if it was bought much earlier. 
+
+
+Defective batteries do occasionally happen. Not all defects are in the chemistry. As others have said, AA is a form factor. In theory, any battery that is labeled an AA should fit about the same as any other brand of AA. However sometimes the process building them causes the battery to be slightly shorter. For some devices this isn't a problem, the spring will provide enough support to make contact, sometimes it doesn't. 
+
+Another thing that can happen especially if the older batteries you replaced out of it were of the alkaline kind, is that they can can leak. This can cause the terminals to get a little crusty which prevents proper contact. Sometimes by placing a battery in a device and taking it out, you scrape some of that stuff and the next battery you will just work. 
+
+One last thing really depends on the device. Some devices are voltage sensitive or expecting a certain change in voltage. For the most part Energizer Lithiums will work in any AA application, however if the device was made for alkaline specifically, you'll notice certain anomalies when using lithium. If there's any battery charge meter you'll notice that lithium will basically say full charge for longer and then cut out. This has to do with how lithium discharges vs how alkaline discharges. I wouldn't think a flashlight of all things would be voltage sensitive like that, but it might be expecting more of an alkaline discharge curve.","&lt;div class=""md""&gt;&lt;p&gt;It really depends on the battery in question and the device it goes into.&lt;/p&gt;
+
+&lt;p&gt;One answer is possibly the freshness of the battery or defect in the battery. Over time every battery loses capacity, alkaline and lithium are both known to hold their capacity for a long time. Some stores or warehouses, especially if you buy the batteries at a store like Walmart for example don&amp;#39;t pull old stock and bring it to the front. While it&amp;#39;s unlikely you bought a super old pack, if it&amp;#39;s sat a few years it&amp;#39;s not as good as the pack would have been if it was bought much earlier. &lt;/p&gt;
+
+&lt;p&gt;Defective batteries do occasionally happen. Not all defects are in the chemistry. As others have said, AA is a form factor. In theory, any battery that is labeled an AA should fit about the same as any other brand of AA. However sometimes the process building them causes the battery to be slightly shorter. For some devices this isn&amp;#39;t a problem, the spring will provide enough support to make contact, sometimes it doesn&amp;#39;t. &lt;/p&gt;
+
+&lt;p&gt;Another thing that can happen especially if the older batteries you replaced out of it were of the alkaline kind, is that they can can leak. This can cause the terminals to get a little crusty which prevents proper contact. Sometimes by placing a battery in a device and taking it out, you scrape some of that stuff and the next battery you will just work. &lt;/p&gt;
+
+&lt;p&gt;One last thing really depends on the device. Some devices are voltage sensitive or expecting a certain change in voltage. For the most part Energizer Lithiums will work in any AA application, however if the device was made for alkaline specifically, you&amp;#39;ll notice certain anomalies when using lithium. If there&amp;#39;s any battery charge meter you&amp;#39;ll notice that lithium will basically say full charge for longer and then cut out. This has to do with how lithium discharges vs how alkaline discharges. I wouldn&amp;#39;t think a flashlight of all things would be voltage sensitive like that, but it might be expecting more of an alkaline discharge curve.&lt;/p&gt;
+&lt;/div&gt;",False,False,False,,,,,0,1714170517.0,1714170517.0,0,,0,False,0,{},l1f4z56,False,,t3_1cdrrks,False,,,,[],t1_l1f4z56,True,,t3_1cdrrks,/r/explainlikeimfive/comments/1cdrrks/eli5_why_do_some_devices_reject_different_types/l1f4z56/,,,,False,0,False,True,False,explainlikeimfive,t5_2sokd,r/explainlikeimfive,public,,0,[],,0,[],t1

@@ -1,4 +1,4 @@
-## My stuff based on DSB-318 ##
+## My stuff just for DSB-318##
 ## Emily K. Sanders ##
 
 # R Studio
@@ -7,9 +7,6 @@
 
 # Python Text Scripts
 *.py
-
-# Secret hidden folders
-*ignore*/
 
 ## Stuff that came with the Python template from GitHub ##
 ## Thank you, GitHub! ##
@@ -187,6 +184,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-
-# For the mac users
-.DS_Store
